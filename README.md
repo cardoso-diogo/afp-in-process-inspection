@@ -138,7 +138,7 @@ The project expects a specific hierarchical folder structure for data management
 
 ## 🎓 Citing This Work
 
-If you use this code or methodology in your research, please cite our paper.
+If you use this code or methodology in your research, please cite the paper.
 
 <!-- [ACTION]: Get the official BibTeX from your publisher's website once available. -->
 ```bibtex
