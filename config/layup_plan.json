@@ -1,0 +1,23 @@
+{
+  "layup_id": "PART-001-DEMO",
+  "config_file": "config/config.ini",
+  "total_layers": 2,
+  "layers": [
+    {
+      "layer_id": 1,
+      "passes": [
+        {"pass_id": 1, "orientation": 0},
+        {"pass_id": 2, "orientation": 0},
+        {"pass_id": 3, "orientation": 0}
+      ]
+    },
+    {
+      "layer_id": 2,
+      "passes": [
+        {"pass_id": 1, "orientation": 90},
+        {"pass_id": 2, "orientation": 90},
+        {"pass_id": 3, "orientation": 90}
+      ]
+    }
+  ]
+}
