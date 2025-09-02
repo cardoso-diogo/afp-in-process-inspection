@@ -45,7 +45,7 @@ This project requires Python 3.9+ and several third-party libraries.
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/f4y2021/afp-in-process-inspection.git
-    cd your-repo-name
+    cd afp-in-process-inspection
     ```
 
 2.  **Create a virtual environment (recommended):**
