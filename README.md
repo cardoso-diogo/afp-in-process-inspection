@@ -5,7 +5,7 @@
 
 This repository contains the official Python source code and data for the research paper:
 
-> **A Methodology for In-Process Geometric Digital Twin Generation in AFP: Framework and Baseline Validation on a Planar Layup**  
+> **An Open-Source Framework for In-Process Geometric Quality Assurance in Automated Fiber Placement: A Baseline Validation and Dataset**  
 > *Diogo Cardoso, António Ramos Silva, Nuno Correia*  
 > Journal Name, 2025.
 > **[Read the Full Paper Here]**
@@ -143,7 +143,7 @@ If you use this code or methodology in your research, please cite the paper.
 <!-- [ACTION]: Get the official BibTeX from your publisher's website once available. -->
 ```bibtex
 @article{Cardoso2025,
-  title={A Methodology for In-Process Geometric Digital Twin Generation in AFP: Framework and Baseline Validation on a Planar Layup},
+  title={An Open-Source Framework for In-Process Geometric Quality Assurance in Automated Fiber Placement: A Baseline Validation and Dataset},
   author={Cardoso, Diogo and Silva, Ant{\'o}nio Ramos and Correia, Nuno},
   journal={Journal Name},
   year={2025},
