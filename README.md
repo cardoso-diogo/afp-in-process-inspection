@@ -10,6 +10,10 @@ This repository contains the official Python source code and data for the resear
 > Journal Name, 2025.
 > **[Read the Full Paper Here]**
 
+"## Dataset Archive
+The raw dataset corresponding to the baseline validation in our paper is permanently archived on Zenodo and can be cited using the following DOI:
+![dataset](https://zenodo.org/badge/DOI/10.5281/zenodo.17048469.svg)
+
 ---
 
 ## 🎯 Project Goal
