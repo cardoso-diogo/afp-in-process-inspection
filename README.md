@@ -2,6 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
+![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.17048469.svg)
 
 This repository contains the official Python source code and data for the research paper:
 
@@ -9,10 +10,6 @@ This repository contains the official Python source code and data for the resear
 > *Diogo Cardoso, António Ramos Silva, Nuno Correia*  
 > Journal Name, 2025.
 > **[Read the Full Paper Here]**
-
-"## Dataset Archive
-The raw dataset corresponding to the baseline validation in our paper is permanently archived on Zenodo and can be cited using the following DOI:
-![dataset](https://zenodo.org/badge/DOI/10.5281/zenodo.17048469.svg)
 
 ---
 
