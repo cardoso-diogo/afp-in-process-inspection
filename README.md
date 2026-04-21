@@ -8,8 +8,8 @@ This repository contains the official Python source code and data for the resear
 
 > **An Open-Source Framework for In-Process Geometric Quality Assurance in Automated Fiber Placement: A Baseline Validation and Dataset**  
 > *Diogo Cardoso, António Ramos Silva, Nuno Correia*  
-2026
-> **[Read the Full Paper Here]**
+Composites Part A: Applied Science and Manufacturing 2026
+> https://doi.org/10.1016/j.compositesa.2026.109835
 
 ## Dataset Archive
 The raw dataset corresponding to the baseline validation in our paper is permanently archived on Zenodo and can be cited using the following DOI:
