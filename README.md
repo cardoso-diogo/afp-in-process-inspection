@@ -9,7 +9,7 @@ This repository contains the official Python source code and data for the resear
 > **An Open-Source Framework for In-Process Geometric Quality Assurance in Automated Fiber Placement: A Baseline Validation and Dataset**  
 >
 > Paper Citation:
-Cardoso, D., Ramos Silva, A., & Correia, N. (2026). An open-source framework for in-process geometric quality assurance in automated fiber placement: A baseline validation and dataset. Composites Part A: Applied Science and Manufacturing, 109835. https://doi.org/10.1016/j.compositesa.2026.109835
+> Cardoso, D., Ramos Silva, A., & Correia, N. (2026). An open-source framework for in-process geometric quality assurance in automated fiber placement: A baseline validation and dataset. Composites Part A: Applied Science and Manufacturing, 109835. https://doi.org/10.1016/j.compositesa.2026.109835
 
 ## Dataset Archive
 The raw dataset corresponding to the baseline validation in our paper is permanently archived on Zenodo and can be cited using the following DOI:
